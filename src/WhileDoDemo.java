@@ -24,3 +24,7 @@ public class WhileDoDemo {
         } while (j <= 5);
     }
 }
+
+
+
+
